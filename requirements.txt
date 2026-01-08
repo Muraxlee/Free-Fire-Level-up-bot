@@ -1,0 +1,15 @@
+PyJWT
+requests
+protobuf
+protobuf-decoder
+psutil
+pycryptodome
+urllib3
+httpx
+aiogram
+gspread
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+pytz
+python-dotenv
